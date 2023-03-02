@@ -1,7 +1,6 @@
 import openai
 import streamlit as website
 import time
-import keys
 from dotenv import load_dotenv
 import os
 
